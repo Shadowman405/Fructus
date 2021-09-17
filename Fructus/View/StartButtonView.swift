@@ -12,7 +12,7 @@ struct StartButtonView: View {
     
     var body: some View {
         Button(action: {
-            isOnboarding?.toggle()
+            isOnboarding = false
         }){
             HStack(spacing: 8) {
                 Text("Start")
