@@ -23,6 +23,7 @@
 		BFD8BF8E26F53BA900DC03BC /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD8BF8D26F53BA900DC03BC /* FruitNutrientsView.swift */; };
 		BFD8BF9026F5411E00DC03BC /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD8BF8F26F5411E00DC03BC /* SettingsView.swift */; };
 		BFD8BF9226F5474B00DC03BC /* SettinglabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD8BF9126F5474B00DC03BC /* SettinglabelView.swift */; };
+		BFD8BF9426F6377700DC03BC /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD8BF9326F6377700DC03BC /* SettingsRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		BFD8BF8D26F53BA900DC03BC /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		BFD8BF8F26F5411E00DC03BC /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		BFD8BF9126F5474B00DC03BC /* SettinglabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettinglabelView.swift; sourceTree = "<group>"; };
+		BFD8BF9326F6377700DC03BC /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,12 +113,13 @@
 			isa = PBXGroup;
 			children = (
 				BFB5E0C526EE5B9400E09BA8 /* FruitCardView.swift */,
-				BFB5E0C726EE5F6500E09BA8 /* StartButtonView.swift */,
 				BFB5E0D126EE80E100E09BA8 /* FruitRowView.swift */,
 				BFB5E0D526EE94DB00E09BA8 /* FruitHeaderView.swift */,
 				BFD8BF8D26F53BA900DC03BC /* FruitNutrientsView.swift */,
+				BFB5E0C726EE5F6500E09BA8 /* StartButtonView.swift */,
 				BFB5E0D726EE977400E09BA8 /* SourceLinkView.swift */,
 				BFD8BF9126F5474B00DC03BC /* SettinglabelView.swift */,
+				BFD8BF9326F6377700DC03BC /* SettingsRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 			files = (
 				BFB5E0D026EE6BA900E09BA8 /* FruitData.swift in Sources */,
 				BFB5E0D826EE977400E09BA8 /* SourceLinkView.swift in Sources */,
+				BFD8BF9426F6377700DC03BC /* SettingsRowView.swift in Sources */,
 				BFD8BF9226F5474B00DC03BC /* SettinglabelView.swift in Sources */,
 				BFB5E0C626EE5B9400E09BA8 /* FruitCardView.swift in Sources */,
 				BFB5E0D226EE80E100E09BA8 /* FruitRowView.swift in Sources */,
